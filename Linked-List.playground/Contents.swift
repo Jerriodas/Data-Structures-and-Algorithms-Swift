@@ -12,4 +12,11 @@ list.push(3)
 list.push(2)
 list.push(1)
 
-print(list)
+//print(list)
+
+var list1 = LinkedList<Int>()
+list1.append(1)
+list1.append(2)
+list1.append(3)
+
+print(list1)
